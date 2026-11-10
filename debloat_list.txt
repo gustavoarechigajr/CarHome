@@ -1,0 +1,25 @@
+# Vendor junk
+com.dofun.dofunweather.main
+com.ab2update.fota_demo_iot
+com.abupdate.fota_demo_iot
+com.dofun.market
+com.huawei.dmsdpdevice
+com.huawei.hisight
+com.huawei.nearby
+com.tw.bug.report
+com.google.android.partnersetup
+# Seller-installed apps
+com.google.android.youtube
+com.facebook.katana
+com.sygic.incar
+com.androits.gps.test.pro
+com.alensw.PicFolder
+# Unused hardware features
+com.android.nfc
+com.ms.ms2160
+com.tw.dvr
+cn.cardoor.zt360
+com.tw.auxin
+# Voice + Chrome
+com.dofun.overseasvoice
+com.android.chrome

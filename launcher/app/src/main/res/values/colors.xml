@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Day palette. Night palette lives in values-night/colors.xml and is picked automatically
+     when Android's night mode is on (the head unit turns it on with the headlights). -->
+<resources>
+    <color name="bg">#EEF1F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface2">#E3E8EF</color>
+    <color name="text">#0F141A</color>
+    <color name="muted">#55606D</color>
+    <color name="accent">#1259D8</color>
+    <color name="on_accent">#FFFFFF</color>
+    <color name="accent_soft">#E1EBFD</color>
+    <color name="accent_ink">#1259D8</color>
+    <color name="ripple">#1F0F141A</color>
+</resources>

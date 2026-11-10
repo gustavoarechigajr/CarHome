@@ -1,0 +1,22 @@
+# Private / device-specific data (kept locally, never published)
+backup-*/
+report-*/
+photos/
+research/
+display_settings.png
+car_home_now.png
+.env
+
+# Android build output
+launcher/.gradle/
+launcher/.kotlin/
+launcher/build/
+launcher/app/build/
+launcher/local.properties
+launcher/fw/
+*.apk
+*.jar
+!launcher/gradle/wrapper/gradle-wrapper.jar
+.idea/
+*.iml
+.DS_Store
